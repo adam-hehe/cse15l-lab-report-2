@@ -14,8 +14,14 @@ When this url is entered, the method `handleRequest(URL url)` is ran. The releva
 When this url is entered, the method `handleRequest(URL url)` is ran. The relevant argument to this method is the `url` that is entered in the search bar. This `url` differs from the previous expample and thus will output a different result. Now the values of `user` and `newMessages` are different and `arr` will get updated with these new values. Now two elements are stored in `arr` and they are presented on screen seperated by a `\n` character.
 
 ## PART 2
+**`ls` showing Public and Private key locations**
+![Image](pathimage.png)
+Absolute path of public key: `/Users/adamconnor/.ssh/id_rsa.pub`
 
-/Users/adamconnor/.ssh/id_rsa.pub
+Absolute path of private key: `/Users/adamconnor/.ssh/id_rsa`
+
+**Successful login with no password**
+![Image](nopasswordimage.png)
 
 
 ## PART 3
