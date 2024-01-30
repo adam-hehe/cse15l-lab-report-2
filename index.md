@@ -9,7 +9,7 @@
 ![Image](labreportimage1.png)
 When this url is entered, the method `handleRequest(URL url)` is ran. The relevant argument to this method is the `url` that is entered in the search bar. The contents of `url` determine what values are stored in `user` and `newMessages`. These variables get stored into relevant field to the class is `arr`. The value of `arr` updates with each new `url` that is entered. 
 
-**`/add-message` Example 1**
+**`/add-message` Example 2**
 ![Image](labreportimaage2.png)
 When this url is entered, the method `handleRequest(URL url)` is ran. The relevant argument to this method is the `url` that is entered in the search bar. This `url` differs from the previous expample and thus will output a different result. Now the values of `user` and `newMessages` are different and `arr` will get updated with these new values. Now two elements are stored in `arr` and they are presented on screen seperated by a `\n` character.
 
