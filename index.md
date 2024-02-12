@@ -15,7 +15,7 @@ When this url is entered, the method `handleRequest(URL url)` is ran. The releva
 
 ## PART 2
 **`ls` showing Public key location**
-![Image](pathimage.png)
+![Image](publicimage.png)
 Absolute path of public key: `/home/linux/ieng6/oce/95/adconnor/.ssh/authorized_keys`
 
 **`ls` showing Private key location**
